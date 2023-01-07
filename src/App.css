@@ -1,0 +1,20 @@
+*{
+  font-size: 40px;
+  font-family: Poppins;
+}
+body{
+  background-color: #EEF0EB;
+
+}
+.nav-bar{
+  background-color: #153243;
+}
+.nav-bar a{
+  text-decoration: none;
+  margin: 5%;
+  color: white;
+  font-weight: 600;
+}
+input::placeholder{
+  text-align: center;
+}
